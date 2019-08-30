@@ -1,23 +1,11 @@
 using System;
 
-public abstract class Character{
+public interface Character {
+    
 
-    private String name{
-        get;
-        set;
-    }
-    private double life{
-        get;
-        set;
-    }
-    private double atackPower{
-        get;
-        set;
-    }
-    private double defensePower{
-        get;
-        set;
-    }
-
+    string name {get; set;}
+    double life {get; set;}
+    double atackPower{get; set;}
+    double defensePower{get; set;}
 
 }
