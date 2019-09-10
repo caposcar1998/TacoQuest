@@ -19,7 +19,7 @@ public class Hero : MonoBehaviour{
    
     void Start() {
 
-    vida = .5f;
+    vida = 10f;
     rb = GetComponent<Rigidbody2D>();
 
         
