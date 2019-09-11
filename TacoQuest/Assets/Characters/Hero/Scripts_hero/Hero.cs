@@ -55,7 +55,7 @@ public class Hero : MonoBehaviour{
             
             //Destroy (gameObject);
             print ("Morido");
-            SceneManager.LoadScene("Menu");
+            SceneManager.LoadScene(0);
         }
     }
     
