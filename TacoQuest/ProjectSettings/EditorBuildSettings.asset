@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 8e68d48cf1724bb42bf22229bb1ac73c
   - enabled: 1
-    path: Assets/Scenes/Oscar.unity
+    path: Assets/Scenes/Tlalpan.unity
     guid: 02ac553ff8bc2a3479b21ba08f6a95e1
   m_configObjects: {}
