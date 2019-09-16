@@ -31,12 +31,24 @@ public class Hero : MonoBehaviour{
         float v = Input.GetAxis("Vertical");
         gameObject.transform.Translate(new Vector3(h, v));
 
+        if(Input.GetKeyDown(KeyCode.D )){
+            player.SetBool("Move_left", true);
+            player.SetBool("Move_rigth", false);
+        }
+        if(Input.GetKeyDown(KeyCode.A )){
+            player.SetBool("Move_rigth", true);
+            player.SetBool("Move_left", false);
+        }
+
+
         if (Input.GetKeyDown(KeyCode.Space)) {
             print ("Access menu");
         } 
          if (Input.GetKeyDown(KeyCode.P)) {
             print ("Atack");
             player.SetBool("Atack", true);
+            player.SetBool("Move_left", false);
+            player.SetBool("Move_rigth", false);
 
         }else{
             player.SetBool("Atack", false);
