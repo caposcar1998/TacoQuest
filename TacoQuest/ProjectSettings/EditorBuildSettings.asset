@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tlalpan.unity
     guid: 02ac553ff8bc2a3479b21ba08f6a95e1
+  - enabled: 1
+    path: Assets/Scenes/AboutUs.unity
+    guid: 519142bfea5de24418c60b9500c5ffff
+  - enabled: 1
+    path: Assets/Scenes/OptionMenu.unity
+    guid: 572c4f66ff8234e03943b5c31470f622
   m_configObjects: {}

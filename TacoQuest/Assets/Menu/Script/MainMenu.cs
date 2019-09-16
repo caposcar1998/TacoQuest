@@ -6,9 +6,15 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     // Start is called before the first frame update
+    public int numScene; 
 
-    public void LoadScene(){
+    public void LoadScene(int numScene){
         //change to oder scene
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(numScene);
+    }
+
+    public void ExitGame(){
+        Debug.Log("Quiting");
+        Application.Quit();
     }
 }
