@@ -1,0 +1,4615 @@
+fileFormatVersion: 2
+guid: 2428340e0f430465493a8e1f35ab250b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7873727665321529632
+    second: Tileset_calleRR_0
+  - first:
+      213: 3439951789818992869
+    second: Tileset_calleRR_1
+  - first:
+      213: 2092353929966415797
+    second: Tileset_calleRR_2
+  - first:
+      213: 7696670674530078112
+    second: Tileset_calleRR_3
+  - first:
+      213: -7800106642679527526
+    second: Tileset_calleRR_4
+  - first:
+      213: 797678307515007467
+    second: Tileset_calleRR_5
+  - first:
+      213: 3345168375391520657
+    second: Tileset_calleRR_6
+  - first:
+      213: 195031066742355457
+    second: Tileset_calleRR_7
+  - first:
+      213: -2685797930768823392
+    second: Tileset_calleRR_8
+  - first:
+      213: -1716801941538152904
+    second: Tileset_calleRR_9
+  - first:
+      213: -2755782316950944714
+    second: Tileset_calleRR_10
+  - first:
+      213: -2701778853921636247
+    second: Tileset_calleRR_11
+  - first:
+      213: 5018744716159292989
+    second: Tileset_calleRR_12
+  - first:
+      213: -1136228346711661917
+    second: Tileset_calleRR_13
+  - first:
+      213: -262354789569277713
+    second: Tileset_calleRR_14
+  - first:
+      213: -5832362641176612972
+    second: Tileset_calleRR_15
+  - first:
+      213: 7715400039371344674
+    second: Tileset_calleRR_16
+  - first:
+      213: 7434497553472783577
+    second: Tileset_calleRR_17
+  - first:
+      213: 6277728562926747140
+    second: Tileset_calleRR_18
+  - first:
+      213: 9165525316126234296
+    second: Tileset_calleRR_19
+  - first:
+      213: -7313179089988719451
+    second: Tileset_calleRR_20
+  - first:
+      213: -5940936303800569509
+    second: Tileset_calleRR_21
+  - first:
+      213: 5525642036069335195
+    second: Tileset_calleRR_22
+  - first:
+      213: -851656944205847795
+    second: Tileset_calleRR_23
+  - first:
+      213: -8615380716100871931
+    second: Tileset_calleRR_24
+  - first:
+      213: 5207561097254009053
+    second: Tileset_calleRR_25
+  - first:
+      213: -5751480215484779610
+    second: Tileset_calleRR_26
+  - first:
+      213: -2301042494572844858
+    second: Tileset_calleRR_27
+  - first:
+      213: -556247775998666115
+    second: Tileset_calleRR_28
+  - first:
+      213: -4939187330337073148
+    second: Tileset_calleRR_29
+  - first:
+      213: -8344014655355847145
+    second: Tileset_calleRR_30
+  - first:
+      213: 5190620421823499293
+    second: Tileset_calleRR_31
+  - first:
+      213: 8477748912966732412
+    second: Tileset_calleRR_32
+  - first:
+      213: 111812425260497482
+    second: Tileset_calleRR_33
+  - first:
+      213: 7667883350429159809
+    second: Tileset_calleRR_34
+  - first:
+      213: 4402834590618692799
+    second: Tileset_calleRR_35
+  - first:
+      213: -4466789686326102946
+    second: Tileset_calleRR_36
+  - first:
+      213: 676855776348914478
+    second: Tileset_calleRR_37
+  - first:
+      213: 1330924928345995248
+    second: Tileset_calleRR_38
+  - first:
+      213: 2340152655260284348
+    second: Tileset_calleRR_39
+  - first:
+      213: -2731286233845954664
+    second: Tileset_calleRR_40
+  - first:
+      213: 3604292076582097260
+    second: Tileset_calleRR_41
+  - first:
+      213: 3962478207492211992
+    second: Tileset_calleRR_42
+  - first:
+      213: -2598992370347198235
+    second: Tileset_calleRR_43
+  - first:
+      213: 4348777308243782268
+    second: Tileset_calleRR_44
+  - first:
+      213: -6290879045050944605
+    second: Tileset_calleRR_45
+  - first:
+      213: -7846896223987460329
+    second: Tileset_calleRR_46
+  - first:
+      213: -5159549474533789577
+    second: Tileset_calleRR_47
+  - first:
+      213: 3354817488306337234
+    second: Tileset_calleRR_48
+  - first:
+      213: 50792661455292431
+    second: Tileset_calleRR_49
+  - first:
+      213: 4834775566294132497
+    second: Tileset_calleRR_50
+  - first:
+      213: 2271597821972304571
+    second: Tileset_calleRR_51
+  - first:
+      213: -210771558806250808
+    second: Tileset_calleRR_52
+  - first:
+      213: -7670197556036073152
+    second: Tileset_calleRR_53
+  - first:
+      213: -7031240145482616355
+    second: Tileset_calleRR_54
+  - first:
+      213: -186298250371854334
+    second: Tileset_calleRR_55
+  - first:
+      213: 8877289503105084250
+    second: Tileset_calleRR_56
+  - first:
+      213: 2091787959605320943
+    second: Tileset_calleRR_57
+  - first:
+      213: -2472249703308334947
+    second: Tileset_calleRR_58
+  - first:
+      213: -8933270222642995600
+    second: Tileset_calleRR_59
+  - first:
+      213: 3785372919723697921
+    second: Tileset_calleRR_60
+  - first:
+      213: 183905964975066392
+    second: Tileset_calleRR_61
+  - first:
+      213: 3680530823530365315
+    second: Tileset_calleRR_62
+  - first:
+      213: -1610983560532288944
+    second: Tileset_calleRR_63
+  - first:
+      213: -7163940349272160176
+    second: Tileset_calleRR_64
+  - first:
+      213: -1405793044093794869
+    second: Tileset_calleRR_65
+  - first:
+      213: -2351474718051855155
+    second: Tileset_calleRR_66
+  - first:
+      213: -2203508805938078404
+    second: Tileset_calleRR_67
+  - first:
+      213: -1824653767456635877
+    second: Tileset_calleRR_68
+  - first:
+      213: 7701756593664300756
+    second: Tileset_calleRR_69
+  - first:
+      213: -7943445447276113048
+    second: Tileset_calleRR_70
+  - first:
+      213: 8500923504200443818
+    second: Tileset_calleRR_71
+  - first:
+      213: 1559324942404586784
+    second: Tileset_calleRR_72
+  - first:
+      213: -5946138495588462310
+    second: Tileset_calleRR_73
+  - first:
+      213: -344091884155374929
+    second: Tileset_calleRR_74
+  - first:
+      213: 418713095295117021
+    second: Tileset_calleRR_75
+  - first:
+      213: -5904023471346470043
+    second: Tileset_calleRR_76
+  - first:
+      213: -6971823569859856121
+    second: Tileset_calleRR_77
+  - first:
+      213: 1308056847934921258
+    second: Tileset_calleRR_78
+  - first:
+      213: -4695613257832138844
+    second: Tileset_calleRR_79
+  - first:
+      213: 6238975931506098730
+    second: Tileset_calleRR_80
+  - first:
+      213: -7818218435119206024
+    second: Tileset_calleRR_81
+  - first:
+      213: -4725765810321935764
+    second: Tileset_calleRR_82
+  - first:
+      213: -1858579560040201834
+    second: Tileset_calleRR_83
+  - first:
+      213: -3585465259640128448
+    second: Tileset_calleRR_84
+  - first:
+      213: -3932638345666489389
+    second: Tileset_calleRR_85
+  - first:
+      213: -7399178864252796162
+    second: Tileset_calleRR_86
+  - first:
+      213: 6640078802732720554
+    second: Tileset_calleRR_87
+  - first:
+      213: -6190473440590568505
+    second: Tileset_calleRR_88
+  - first:
+      213: -6783993338707997345
+    second: Tileset_calleRR_89
+  - first:
+      213: 1270783854015230081
+    second: Tileset_calleRR_90
+  - first:
+      213: 8110315162203847778
+    second: Tileset_calleRR_91
+  - first:
+      213: -455933320946349024
+    second: Tileset_calleRR_92
+  - first:
+      213: -658654638146393716
+    second: Tileset_calleRR_93
+  - first:
+      213: -8495015315096823044
+    second: Tileset_calleRR_94
+  - first:
+      213: -5728444244676483067
+    second: Tileset_calleRR_95
+  - first:
+      213: -8305777727007540311
+    second: Tileset_calleRR_96
+  - first:
+      213: -9216946002721180546
+    second: Tileset_calleRR_97
+  - first:
+      213: -3527113082235947542
+    second: Tileset_calleRR_98
+  - first:
+      213: -4867134480510331869
+    second: Tileset_calleRR_99
+  - first:
+      213: 6679583192648833209
+    second: Tileset_calleRR_100
+  - first:
+      213: -5877763372172926545
+    second: Tileset_calleRR_101
+  - first:
+      213: 4738935055284669306
+    second: Tileset_calleRR_102
+  - first:
+      213: -4511394860239684759
+    second: Tileset_calleRR_103
+  - first:
+      213: 8850312036529260916
+    second: Tileset_calleRR_104
+  - first:
+      213: 7780768450302538566
+    second: Tileset_calleRR_105
+  - first:
+      213: -4894028062903419022
+    second: Tileset_calleRR_106
+  - first:
+      213: -8685557746723411276
+    second: Tileset_calleRR_107
+  - first:
+      213: -9016922147772829025
+    second: Tileset_calleRR_108
+  - first:
+      213: 2439525876411418731
+    second: Tileset_calleRR_109
+  - first:
+      213: -4150409194459349508
+    second: Tileset_calleRR_110
+  - first:
+      213: 7143873701581354124
+    second: Tileset_calleRR_111
+  - first:
+      213: 4804268311626945200
+    second: Tileset_calleRR_112
+  - first:
+      213: 7748470833872894615
+    second: Tileset_calleRR_113
+  - first:
+      213: 2172413403025446171
+    second: Tileset_calleRR_114
+  - first:
+      213: -6141765950320405966
+    second: Tileset_calleRR_115
+  - first:
+      213: 2480046557325121820
+    second: Tileset_calleRR_116
+  - first:
+      213: -3798257260645318983
+    second: Tileset_calleRR_117
+  - first:
+      213: 2785692677007863543
+    second: Tileset_calleRR_118
+  - first:
+      213: 5803220325361331646
+    second: Tileset_calleRR_119
+  - first:
+      213: -8123706397434920453
+    second: Tileset_calleRR_120
+  - first:
+      213: 3711994900079048545
+    second: Tileset_calleRR_121
+  - first:
+      213: 1315031855820348659
+    second: Tileset_calleRR_122
+  - first:
+      213: 3584473754567266626
+    second: Tileset_calleRR_123
+  - first:
+      213: -9098640879278066432
+    second: Tileset_calleRR_124
+  - first:
+      213: -8056544037075739090
+    second: Tileset_calleRR_125
+  - first:
+      213: -1994436158131816386
+    second: Tileset_calleRR_126
+  - first:
+      213: 6407790737281919127
+    second: Tileset_calleRR_127
+  - first:
+      213: 1680283244282070387
+    second: Tileset_calleRR_128
+  - first:
+      213: -996150580369657978
+    second: Tileset_calleRR_129
+  - first:
+      213: 8176295615725523803
+    second: Tileset_calleRR_130
+  - first:
+      213: 1315878031080225553
+    second: Tileset_calleRR_131
+  - first:
+      213: -561013659252997058
+    second: Tileset_calleRR_132
+  - first:
+      213: 3040562331650650915
+    second: Tileset_calleRR_133
+  - first:
+      213: 7337848960758377583
+    second: Tileset_calleRR_134
+  - first:
+      213: 2430292295375145657
+    second: Tileset_calleRR_135
+  - first:
+      213: 6690520601788032087
+    second: Tileset_calleRR_136
+  - first:
+      213: -8493972708076456458
+    second: Tileset_calleRR_137
+  - first:
+      213: -8324412255998305911
+    second: Tileset_calleRR_138
+  - first:
+      213: -3402772900879011894
+    second: Tileset_calleRR_139
+  - first:
+      213: -3612608269943815354
+    second: Tileset_calleRR_140
+  - first:
+      213: 5160848200128468086
+    second: Tileset_calleRR_141
+  - first:
+      213: 1329486926541616399
+    second: Tileset_calleRR_142
+  - first:
+      213: 8318354845820278127
+    second: Tileset_calleRR_143
+  - first:
+      213: 3899261584181669428
+    second: Tileset_calleRR_144
+  - first:
+      213: 4507735619974698304
+    second: Tileset_calleRR_145
+  - first:
+      213: -4591486654127967452
+    second: Tileset_calleRR_146
+  - first:
+      213: -1735573036957119218
+    second: Tileset_calleRR_147
+  - first:
+      213: -8460744756275127505
+    second: Tileset_calleRR_148
+  - first:
+      213: 6206383100011489515
+    second: Tileset_calleRR_149
+  - first:
+      213: 29894681424306151
+    second: Tileset_calleRR_150
+  - first:
+      213: -5260375360815298919
+    second: Tileset_calleRR_151
+  - first:
+      213: 1899007381759477540
+    second: Tileset_calleRR_152
+  - first:
+      213: 5044867516300994145
+    second: Tileset_calleRR_153
+  - first:
+      213: 1320754599626519884
+    second: Tileset_calleRR_154
+  - first:
+      213: -2417270163106690711
+    second: Tileset_calleRR_155
+  - first:
+      213: 1288763994107364803
+    second: Tileset_calleRR_156
+  - first:
+      213: 319677782087283047
+    second: Tileset_calleRR_157
+  - first:
+      213: -2713619700579186465
+    second: Tileset_calleRR_158
+  - first:
+      213: 8152601360572853660
+    second: Tileset_calleRR_159
+  - first:
+      213: -6099379774271371826
+    second: Tileset_calleRR_160
+  - first:
+      213: 4062076829378005173
+    second: Tileset_calleRR_161
+  - first:
+      213: 3585871473799137213
+    second: Tileset_calleRR_162
+  - first:
+      213: 3832515438151721926
+    second: Tileset_calleRR_163
+  - first:
+      213: -3460212585152442797
+    second: Tileset_calleRR_164
+  - first:
+      213: 7020077292197448267
+    second: Tileset_calleRR_165
+  - first:
+      213: 4782098207136313291
+    second: Tileset_calleRR_166
+  - first:
+      213: -6608938961473277699
+    second: Tileset_calleRR_167
+  - first:
+      213: 5223167981332341751
+    second: Tileset_calleRR_168
+  - first:
+      213: -495072430109618646
+    second: Tileset_calleRR_169
+  - first:
+      213: -1775102302037514731
+    second: Tileset_calleRR_170
+  - first:
+      213: 1018022495814520836
+    second: Tileset_calleRR_171
+  - first:
+      213: 5938011098215590837
+    second: Tileset_calleRR_172
+  - first:
+      213: 1104069502273286007
+    second: Tileset_calleRR_173
+  - first:
+      213: -8422832366847192901
+    second: Tileset_calleRR_174
+  - first:
+      213: 7929351473057897752
+    second: Tileset_calleRR_175
+  - first:
+      213: 6726333939827084648
+    second: Tileset_calleRR_176
+  - first:
+      213: 9110367174217092116
+    second: Tileset_calleRR_177
+  - first:
+      213: 4323153499366292917
+    second: Tileset_calleRR_178
+  - first:
+      213: 5959682544364941862
+    second: Tileset_calleRR_179
+  - first:
+      213: 7902584232223741495
+    second: Tileset_calleRR_180
+  - first:
+      213: -8186221963957295070
+    second: Tileset_calleRR_181
+  - first:
+      213: -8180041836067278451
+    second: Tileset_calleRR_182
+  - first:
+      213: -1932993145199002049
+    second: Tileset_calleRR_183
+  - first:
+      213: -5882972900172573576
+    second: Tileset_calleRR_184
+  - first:
+      213: -2523818403087543118
+    second: Tileset_calleRR_185
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_calleRR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850ef31fe1da4623802efb94d866f23
+      internalID: 7873727665321529632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba1002d2742c4ce295487a6e45622b4
+      internalID: 3439951789818992869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327709e5fc4847059d700049a34d4c7
+      internalID: 2092353929966415797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ab1661ae5c45588e09386335f0d78
+      internalID: 7696670674530078112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f9482f855142c6ad7bc11804733ff
+      internalID: -7800106642679527526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9d6de36ec845d8b90fe5e28020162
+      internalID: 797678307515007467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eabe8bbffb7549b1a7f7ca5c3806400
+      internalID: 3345168375391520657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e99d19de7cc4e3ea523119b32f3b4e
+      internalID: 195031066742355457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b600784d8a5c84e6bb1852af79f5425a
+      internalID: -2685797930768823392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f85050004e40c68ef2ecd3b5df9c5
+      internalID: -1716801941538152904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad39b92b16645d1a101d07caad2ced
+      internalID: -2755782316950944714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c38ccab33548d499b0f469d52111a
+      internalID: -2701778853921636247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c295fdb6a0a458a9f4961f0e1b8b68
+      internalID: 5018744716159292989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf60bc8cd4c45f68a09ab6bfa43a3b
+      internalID: -1136228346711661917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45926a204223c4bcf9fcfbd172365d86
+      internalID: -262354789569277713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2564ab9064b44dfbf44704296aad4f
+      internalID: -5832362641176612972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db92e104ffbeb443db82845c7ef2417e
+      internalID: 7715400039371344674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53eca73084b43f296b933425458645
+      internalID: 7434497553472783577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fabda062d3d443cabb75a3ebbf2280c
+      internalID: 6277728562926747140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee50ba3783c24f58aebc56a0e9f607e
+      internalID: 9165525316126234296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797f2dfd89274096bc90b8419970df7
+      internalID: -7313179089988719451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbcce05df36641cd936c99b844eb710
+      internalID: -5940936303800569509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e5a4ab986d45af95eacef8428599a
+      internalID: 5525642036069335195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c7017007184e8bb6e451b231c2107
+      internalID: -851656944205847795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152b25c9c91c64d9e90fb3153bcdb73c
+      internalID: -8615380716100871931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b2176fac72d439cba75a1c33a309d5
+      internalID: 5207561097254009053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d706525a60db64f1eb138ce86af349d2
+      internalID: -5751480215484779610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f63d5c9829f14cf4af111549071f358
+      internalID: -2301042494572844858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a316ca9d94c184324aabeccec6720815
+      internalID: -556247775998666115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd6922411e949b88a4e3676d5eb7de
+      internalID: -4939187330337073148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ed70d051ed4b8ebc4ceeddaf51097
+      internalID: -8344014655355847145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ac60ac28ba4b90ac1743cc098f64d
+      internalID: 5190620421823499293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2146631fa58ff46f495a51e5e1bcbd2d
+      internalID: 8477748912966732412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b28e2d750bc446aa6f42a11703b924
+      internalID: 111812425260497482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad65ea529cca3452daea94c83b70bfa8
+      internalID: 7667883350429159809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739b1ee6ee7f4b68a059a4cd30b22b5
+      internalID: 4402834590618692799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ace124af8804122838a1f981e6ae02
+      internalID: -4466789686326102946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1286c4487894f199fdac5487009be7
+      internalID: 676855776348914478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bae87dc8fa64f3e8e375226a9d4489
+      internalID: 1330924928345995248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c8bccedddab4b5dbcd294fd306e025
+      internalID: 2340152655260284348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b8ff9d5339416599aa2944b3ad630
+      internalID: -2731286233845954664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642296531575b4d9ca48deb8fb9439ba
+      internalID: 3604292076582097260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a5fd70e00b4d4c951d36119f9a30e
+      internalID: 3962478207492211992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a61d0b41254ec7a486a30ef19a96c
+      internalID: -2598992370347198235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e85e4a72544146a81a2dcd31bbfec
+      internalID: 4348777308243782268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f62d2481240143e782dc63b94aa0363
+      internalID: -6290879045050944605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643fd3a6717234a018eddb4055573c0f
+      internalID: -7846896223987460329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172bb9facdf2b4465b3e93073c3b1d82
+      internalID: -5159549474533789577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f125ae04d54e0ca76eded1f3f07fa
+      internalID: 3354817488306337234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e52148a7eb2478a88a442b5e078946
+      internalID: 50792661455292431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c309f9c0ec3144328bec529cb3afc10
+      internalID: 4834775566294132497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07149cdc07681491983dd250202fcec2
+      internalID: 2271597821972304571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9213f3e72024d6babb166eaf108817
+      internalID: -210771558806250808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b218937119b4f86a043ebd6380a427
+      internalID: -7670197556036073152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7dfd75721c4a088851faac31f5ddd
+      internalID: -7031240145482616355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddaa6b87884140f9b1caa98791e822a
+      internalID: -186298250371854334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36fcecbb3f740e99538127bf712a6e
+      internalID: 8877289503105084250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2dedfe9cec4e20b4951ecec3af9f1
+      internalID: 2091787959605320943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5efe7068436c4605b1632a5ace371b8
+      internalID: -2472249703308334947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d009d79ffe2e4ffcbc096fef8da7afc
+      internalID: -8933270222642995600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ad13f84dba4f37b1edefaf9cf85b8
+      internalID: 3785372919723697921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a7e725111a45b9ba56f3c092511fb
+      internalID: 183905964975066392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93a8faa318f4b368388a7faadecc15
+      internalID: 3680530823530365315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1778eb3b39b2842249f1f2f77b1a9121
+      internalID: -1610983560532288944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58cbe77263fb4136a6755752d7bdcc2
+      internalID: -7163940349272160176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448bba1e7190047db92d7ec7f9493126
+      internalID: -1405793044093794869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba37e898ec8401d859de3171839dd6
+      internalID: -2351474718051855155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9439d16ed60471aae9a5ff84546732
+      internalID: -2203508805938078404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842dfe5122484809b09a7ac86cf2d6b
+      internalID: -1824653767456635877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3460c8b4873b44bb8b0195dbe648a71
+      internalID: 7701756593664300756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8457ca4d4a4e2e98d85c802f1bede
+      internalID: -7943445447276113048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d97d0d4771a44ba8f5a8590a0aa674
+      internalID: 8500923504200443818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8984b802479374cb5aeee1ae24c153bf
+      internalID: 1559324942404586784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0934f313e71cd417ca94337e2164436b
+      internalID: -5946138495588462310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15443e8d7563a4826803485cd8413bbc
+      internalID: -344091884155374929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100829a021494423db650f7c14009228
+      internalID: 418713095295117021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b908718bd2d4099bdd31db26095c96
+      internalID: -5904023471346470043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f581ec2e36145bc8a41b5c713bcf8b
+      internalID: -6971823569859856121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81291c285ffb64255b6fda44e9180c8b
+      internalID: 1308056847934921258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e2fd051b17441e09c3fe089b3566be
+      internalID: -4695613257832138844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc0ea5fe33354cc6bb2bb1a95e9d1fb
+      internalID: 6238975931506098730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d64e4ad1c35e48a6838bc4c0495eceb
+      internalID: -7818218435119206024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1ffbc7570f4060bde4eac14fc5d85
+      internalID: -4725765810321935764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a617bd9e3e947a08abce0af311e391
+      internalID: -1858579560040201834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c807214271842269f6d9b48a9f11a2
+      internalID: -3585465259640128448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2196699ba6914be289f967548ed50cc
+      internalID: -3932638345666489389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd0f002c09c6431788e5c975142ebee
+      internalID: -7399178864252796162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff0e850ab614acdbbefb782b4c377b
+      internalID: 6640078802732720554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92665951b2c8947038a6fd7fb3edd678
+      internalID: -6190473440590568505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a1b8e3a4834f0c8028bc265586deb
+      internalID: -6783993338707997345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1d2b55b97d43e6a9df56325c55a16
+      internalID: 1270783854015230081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433842ab0dff94f86bb918a574f8bd57
+      internalID: 8110315162203847778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f58000d3b44950bd571d6f2ed9b4b
+      internalID: -455933320946349024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2788af39997a479487b276e3714ee27
+      internalID: -658654638146393716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42782e7db43a43348bf21d846488814
+      internalID: -8495015315096823044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09355ad91c9942d584584e562572c49
+      internalID: -5728444244676483067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b35f5d3a0164f2197e6978d1d41c19
+      internalID: -8305777727007540311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6a17c30ea9418d8713383bf185000
+      internalID: -9216946002721180546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27ace0d9dad41a6876527f9ac7cca2
+      internalID: -3527113082235947542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_99
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd342cadf2994ebabbb9d40319a5aaa
+      internalID: -4867134480510331869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e990df8f42b6411ab376f7f7e196288
+      internalID: 6679583192648833209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de094afa0df2e4e22ac46e6f4b1d8262
+      internalID: -5877763372172926545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce812a78524bc49bfa03e7769ca9613e
+      internalID: 4738935055284669306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af4d894fb6446a89d2124f06d4c01a
+      internalID: -4511394860239684759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bf6ef5e0b141938f83eed3aa159b1
+      internalID: 8850312036529260916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef2eb2c65d54cdd8153acb037fd566
+      internalID: 7780768450302538566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f348eb255484f5eac95c84b37d2f4b
+      internalID: -4894028062903419022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cb6e0d9997a4dab9219c41231d1be8
+      internalID: -8685557746723411276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd78dbfb3a440059443b2844177aeb
+      internalID: -9016922147772829025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784647a3418844b1da25efc99d7a58e9
+      internalID: 2439525876411418731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc93bd34c59bf478baba1dc8ad45a6a3
+      internalID: -4150409194459349508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe9b680e8e1d49ecb32e8a5d61acfe5
+      internalID: 7143873701581354124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eec1439f7e04c65b49f739defd9660
+      internalID: 4804268311626945200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_113
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea650af1264d24042b2e4e113e15d8dc
+      internalID: 7748470833872894615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b4e53ffb1db40329c2882aa4d0d895
+      internalID: 2172413403025446171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e367a6f4b5804415a22e83a6deda0b6
+      internalID: -6141765950320405966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e91d5be09d44463a82d0dcaf09c4c3e
+      internalID: 2480046557325121820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6431ec337ae1481580806854fcb8968
+      internalID: -3798257260645318983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747aebc1e18544b78807ecb0caabf51
+      internalID: 2785692677007863543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96fecd2fa16c42c999db12c2eba3476
+      internalID: 5803220325361331646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f191e323c19ab41ba8ef5e7eb74097f0
+      internalID: -8123706397434920453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26073cc93f1d345c38b5c3498fe21772
+      internalID: 3711994900079048545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b283b611f7398481fa005f4013201c20
+      internalID: 1315031855820348659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4b4e3ff72e4721868ab849de47f1e
+      internalID: 3584473754567266626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922361a0e83c4696a57f3811ae51432
+      internalID: -9098640879278066432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22cd25debd94fbba5db4aad98c0fd8
+      internalID: -8056544037075739090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_126
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5d45d1d37b4e83b051cdbf8c2be8e
+      internalID: -1994436158131816386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83ae4beb4f6749be9efcae44234e1ab
+      internalID: 6407790737281919127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63adf96789bce4c42881b180c0b20842
+      internalID: 1680283244282070387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb1d64cffe343d089963a5408ae56d
+      internalID: -996150580369657978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63564a8aa31e449398277ac1ea89cb80
+      internalID: 8176295615725523803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172d3de7b4b14dbfa4e81cd64be43f6
+      internalID: 1315878031080225553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321f4ef796974d66ab709b015860e67
+      internalID: -561013659252997058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606ac45547db44b8a796ac594e3c8d6
+      internalID: 3040562331650650915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca3eebcada8a4e718dbf20c83bc615e
+      internalID: 7337848960758377583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9dc51ca72b4f77852986cc7a96022
+      internalID: 2430292295375145657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5570563a4704e4aaa203bca87707c3
+      internalID: 6690520601788032087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c82c71af2b4eb18390481bf69fff9
+      internalID: -8493972708076456458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1dae8382d94b3ead0bf86bafedca8
+      internalID: -8324412255998305911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8e4f00394ea425b9bcf886aec36ac0
+      internalID: -3402772900879011894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca6d9c8b6b034082b1535cdb75cf1e1
+      internalID: -3612608269943815354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10ba06ef84de45f9b6bfe343f29cfbf
+      internalID: 5160848200128468086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc2593443a3f4e57842e7ddd231945a
+      internalID: 1329486926541616399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94777831b2164b3f870ac7b8cc629d2
+      internalID: 8318354845820278127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7c44cd68784652bdda799d1273855
+      internalID: 3899261584181669428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_145
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0d553692f84fd3bdc322f88c3e38c
+      internalID: 4507735619974698304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_146
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890274ac2d6844c3943d34f48766a84
+      internalID: -4591486654127967452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701d394545dd41ceb8f01deaf17246f
+      internalID: -1735573036957119218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904182c9cca004fc88215c68d6f2c5d8
+      internalID: -8460744756275127505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccc40303b0844b11bc1646c821da96f
+      internalID: 6206383100011489515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_150
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a21a9b81b594c95a7da090f4d3273e
+      internalID: 29894681424306151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3721d6e237249ab849ef1dc7e9213f
+      internalID: -5260375360815298919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18700ee6fbf3a41fda2125ad2509d9ef
+      internalID: 1899007381759477540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e2ad32fee3f4e18b7f1bbab9b279c3
+      internalID: 5044867516300994145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3675506069ef34d1b8c29f74d9f04e95
+      internalID: 1320754599626519884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fb2d0571484681b9a1bc8c49189c3
+      internalID: -2417270163106690711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f539699c522249fcbcf6683ac7146df
+      internalID: 1288763994107364803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0559137315492dab85bc922abba5a
+      internalID: 319677782087283047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3440b92a6b4381ac3d12c10490ecb
+      internalID: -2713619700579186465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099ec88a105e4b15b84df994c2b3bca
+      internalID: 8152601360572853660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77daf30e9208e49e1a3df419a8149d2d
+      internalID: -6099379774271371826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e56652146a0c4bf88f69c7cf8faec73
+      internalID: 4062076829378005173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_162
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952003266b2a4b7482bb214f434a8a4
+      internalID: 3585871473799137213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7edebb21c5474624befb8fd89b40a95
+      internalID: 3832515438151721926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbadf688019744ce8e81b163c635c40
+      internalID: -3460212585152442797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd721572bbc41ebad687c29e1df5b9
+      internalID: 7020077292197448267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e26ed9f36634b8485e8eb4bc57691d
+      internalID: 4782098207136313291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf96bd0531e9414e93fa925f1765115
+      internalID: -6608938961473277699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc0684a52c9d45bba768fe8e372e50f
+      internalID: 5223167981332341751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a079582d6e04cfd84b89156922697e
+      internalID: -495072430109618646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53f1619099d4cc8b3fc1732c2f635d
+      internalID: -1775102302037514731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397e142390544840835a0c9270d2d95
+      internalID: 1018022495814520836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cdaeb20dde94aeba2589ebfc66403f
+      internalID: 5938011098215590837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cfc6f8a1a26420fba84d6452014236
+      internalID: 1104069502273286007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3790413218f42bca48957aad633885
+      internalID: -8422832366847192901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d94e61de9935463d8312b6f97e3b806
+      internalID: 7929351473057897752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d425bb712705041de9e84f01529852a5
+      internalID: 6726333939827084648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f17b2a57087425b881324a53931f1c
+      internalID: 9110367174217092116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb0af399f3f4f099efd83832d20db5
+      internalID: 4323153499366292917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644f85eebeb446f19538ffa2b1bedc9
+      internalID: 5959682544364941862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0eefac22404275b25c8619a6e7124
+      internalID: 7902584232223741495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eab4764d6414bd98543593bd7402ae
+      internalID: -8186221963957295070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3351b620b541759874d63dd93ee01
+      internalID: -8180041836067278451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72eab26026f9430ebd4cd6cac3d7b91
+      internalID: -1932993145199002049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7737e3422c40342fdab3a9fd5ddeae7b
+      internalID: -5882972900172573576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_calleRR_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7cb681a983d4f4aa7786d5805d12e2
+      internalID: -2523818403087543118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8de84a629235b41789a94f49bf4804cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
