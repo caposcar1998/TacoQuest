@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class Hero : MonoBehaviour{
 
 
-   private float speed;
+    private float speed;
     //Constructor
     private string nombre;
     public static float vida;
@@ -15,7 +15,9 @@ public class Hero : MonoBehaviour{
     Rigidbody2D rb;
     public Animator player;
 
-
+    public Transform shooter;
+    public GameObject object_shoot;
+    
    
     void Start() {
 
@@ -54,11 +56,9 @@ public class Hero : MonoBehaviour{
             player.SetBool("Atack", false);
         }
          if (Input.GetKeyDown(KeyCode.O)) {
-            print ("Defend");
+            print ("Lanzar taco");
+            Shoot();
         }              
-         if (Input.GetKeyDown(KeyCode.I)) {
-            print ("Magic");
-        }
          if (Input.GetKeyDown(KeyCode.J)) {
             print ("Change weapon");
         }
@@ -77,7 +77,16 @@ public class Hero : MonoBehaviour{
             vida -= .5f;
             print (vida);
         }
+
+        if (col.gameObject.name.Equals("potion")){
+            vida += .5f;
+            print (vida);
+        }
         
+    }
+
+    void Shoot (){
+        Instantiate(object_shoot, shooter.position, shooter.rotation);
     }
     
     

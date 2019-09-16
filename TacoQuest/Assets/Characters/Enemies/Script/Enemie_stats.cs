@@ -5,16 +5,18 @@ using UnityEngine;
 public class Enemie_stats : MonoBehaviour
 {
 
-    public float life;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
+    public float life = 10;
+    
+    public void TakeDamage(float damage){
+        life -= damage;
+
+        if (life <=0){
+            Die();
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    void Die(){
+        Destroy (gameObject);
     }
+
 }
