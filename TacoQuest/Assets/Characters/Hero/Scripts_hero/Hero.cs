@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 //MonoBehavior is needed in all classes
 public class Hero : MonoBehaviour{
 
-
+    
     private float speed;
     //Constructor
     private string nombre;
@@ -17,13 +17,18 @@ public class Hero : MonoBehaviour{
 
     public Transform shooter;
     public GameObject object_shoot;
+    private bool atackMovement = false;
+
+    private float atackTimer =0;
+    private float atackCooled = 0.3f;
+    public Collider2D atackTriggered;
     
    
     void Start() {
 
     vida = 10f;
     rb = GetComponent<Rigidbody2D>();
-
+    atackTriggered.enabled = false;
         
     }
 
@@ -51,9 +56,19 @@ public class Hero : MonoBehaviour{
             player.SetBool("Atack", true);
             player.SetBool("Move_left", false);
             player.SetBool("Move_rigth", false);
+            atackMovement = true;
+            atackTriggered.enabled = true;
+            atackTimer = atackCooled;
 
         }else{
             player.SetBool("Atack", false);
+            
+        }
+        if(atackTimer > 0){
+            atackTimer -= Time.deltaTime;
+        }else{
+            atackMovement = false;
+            atackTriggered.enabled = false;
         }
          if (Input.GetKeyDown(KeyCode.O)) {
             print ("Lanzar taco");
