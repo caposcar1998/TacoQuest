@@ -14,6 +14,10 @@ public class Bullet : MonoBehaviour
     void OnTriggerEnter2D(Collider2D object_hitted){
 
        Debug.Log(object_hitted.name) ;
+       if (object_hitted.tag == "Enemy"){
+           object_hitted.GetComponent<Enemie_stats>().TakeDamage(.5f);
+           
+       }
        
     }
     // Update is called once per frame

@@ -1,7 +1,19 @@
 fileFormatVersion: 2
-guid: d5a76fcef79bbc348b32edc81ca619e6
+guid: f922c18a16cb2488285e9d6308ffa64c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1853343342951477810
+    second: Move_front_0
+  - first:
+      213: 6151551925372228572
+    second: Move_front_1
+  - first:
+      213: -7641594310217498933
+    second: Move_front_2
+  - first:
+      213: 7778180007080594760
+    second: Move_front_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -32,7 +44,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: -1
-    aniso: 1
+    aniso: -1
     mipBias: -100
     wrapU: 1
     wrapV: 1
@@ -40,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -144,11 +156,95 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Move_front_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf10ab28e4b19184cb77000f09045955
+      internalID: -1853343342951477810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_front_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929ee158cec94c74293da5d211a00edd
+      internalID: 6151551925372228572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_front_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b555f598145c104784abdf31fb42576
+      internalID: -7641594310217498933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_front_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dc81d06145dc343867eedb05bae043
+      internalID: 7778180007080594760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5014b6bbdaa9de741bb9c5ff16dcf367
     internalID: 0
     vertices: []
     indices: 
