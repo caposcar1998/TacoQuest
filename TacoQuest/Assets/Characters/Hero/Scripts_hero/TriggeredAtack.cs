@@ -9,7 +9,9 @@ public class TriggeredAtack : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D object_punched){
 
-       Debug.Log(object_punched.name) ;
+       if (object_punched.tag == "Enemy"){
+           object_punched.GetComponent<Enemie_stats>().TakeDamage(1f);
+       }
        
     }
 }

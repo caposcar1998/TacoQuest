@@ -23060,7 +23060,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1446020085}
   shooter: {fileID: 1846581068}
-  object_shoot: {fileID: 8965133826583721163, guid: 65559bf6abeceb746b30dd5eb5bfbb29,
+  object_shoot: {fileID: 5327340792389375808, guid: 21d85a5812f02d54d98e555f79a495c3,
     type: 3}
   atackTriggered: {fileID: 995810376}
 --- !u!61 &1446020082

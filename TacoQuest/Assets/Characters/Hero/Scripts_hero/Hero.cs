@@ -38,13 +38,32 @@ public class Hero : MonoBehaviour{
         float v = Input.GetAxis("Vertical");
         gameObject.transform.Translate(new Vector3(h, v));
 
+        if(Input.GetKeyDown(KeyCode.S)){
+            player.SetBool("Move_front",true);
+            player.SetBool("Move_rigth", false);
+            player.SetBool("Move_top",false);
+            player.SetBool("Atack", false);
+            player.SetBool("Move_left", false);
+        }
+
         if(Input.GetKeyDown(KeyCode.D )){
             player.SetBool("Move_left", true);
             player.SetBool("Move_rigth", false);
+            player.SetBool("Move_top",false);
+            player.SetBool("Move_front",false);
         }
         if(Input.GetKeyDown(KeyCode.A )){
             player.SetBool("Move_rigth", true);
             player.SetBool("Move_left", false);
+            player.SetBool("Move_top",false);
+            player.SetBool("Move_front",false);
+        }
+        if(Input.GetKeyDown(KeyCode.W)){
+            player.SetBool("Move_top",true);
+            player.SetBool("Move_left", false);
+            player.SetBool("Move_rigth", false);
+            player.SetBool("Atack", false);
+            player.SetBool("Move_front",false);
         }
 
 
@@ -56,6 +75,7 @@ public class Hero : MonoBehaviour{
             player.SetBool("Atack", true);
             player.SetBool("Move_left", false);
             player.SetBool("Move_rigth", false);
+            player.SetBool("Move_top",false);
             atackMovement = true;
             atackTriggered.enabled = true;
             atackTimer = atackCooled;
