@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class Hero : MonoBehaviour{
 
     
-    private float speed;
+    private float speed = 12.0f;
     //Constructor
     private string nombre;
     public static float vida;
@@ -36,7 +36,7 @@ public class Hero : MonoBehaviour{
     {
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
-        gameObject.transform.Translate(new Vector3(h, v));
+        gameObject.transform.Translate(new Vector3(h, v)*speed*Time.deltaTime);
 
         if(Input.GetKeyDown(KeyCode.S)){
             player.SetBool("Move_front",true);
