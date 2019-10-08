@@ -15,11 +15,8 @@ public class TimedSpawn : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
         counter = 0;
         InvokeRepeating("SpawnEnemie", time, delay);
-        
-
     }
 
     public void SpawnEnemie(){

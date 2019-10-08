@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Coin
   - Pickups
+  - Bullet
   layers:
   - Default
   - TransparentFX
