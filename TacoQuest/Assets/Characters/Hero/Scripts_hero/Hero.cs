@@ -6,6 +6,7 @@ public class Hero : MonoBehaviour{
 
     
     private float speed = 12.0f;
+
     //Constructor
     private string nombre;
     public static float vida;
@@ -117,6 +118,20 @@ public class Hero : MonoBehaviour{
             vida += .5f;
             print (vida);
         }
+
+        if(col.gameObject.CompareTag("Pickups")){
+            col.gameObject.SetActive(false);
+            if(col.gameObject.name.Equals("Coin")){
+                print ("A fucking coin you bastard");
+            }
+            if(col.gameObject.name.Equals("Papas")){
+                print ("Some papitas");
+            }
+            if(col.gameObject.name.Equals("Boing")){
+                print ("Un pinche Boing de mango perro asqueroso");
+            }
+        }
+
         
     }
 
