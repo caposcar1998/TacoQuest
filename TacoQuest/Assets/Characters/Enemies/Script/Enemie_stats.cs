@@ -12,6 +12,7 @@ public class Enemie_stats : MonoBehaviour
 
         if (life <=0){
             Die();
+            
         }
     }
 
