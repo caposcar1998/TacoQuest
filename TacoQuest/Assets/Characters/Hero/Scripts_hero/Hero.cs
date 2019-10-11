@@ -1,11 +1,12 @@
-
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 //MonoBehavior is needed in all classes
 public class Hero : MonoBehaviour{
 
     
-    private float speed = 12.0f;
+    private float speed = 8.0f;
 
     //Constructor
     private string nombre;
@@ -42,7 +43,7 @@ public class Hero : MonoBehaviour{
 
         if(Input.GetKeyDown(KeyCode.S)){
             player.SetBool("Move_front",true);
-            player.SetBool("Move_right", false);
+            player.SetBool("Move_rigth", false);
             player.SetBool("Move_top",false);
             player.SetBool("Atack", false);
             player.SetBool("Move_left", false);
@@ -51,14 +52,14 @@ public class Hero : MonoBehaviour{
         }
         if(Input.GetKeyDown(KeyCode.D )){
             player.SetBool("Move_left", true);
-            player.SetBool("Move_right", false);
+            player.SetBool("Move_rigth", false);
             player.SetBool("Move_top",false);
             player.SetBool("Move_front",false);
             rb.velocity = transform.right * 100;
              
         }
         if(Input.GetKeyDown(KeyCode.A )){
-            player.SetBool("Move_right", true);
+            player.SetBool("Move_rigth", true);
             player.SetBool("Move_left", false);
             player.SetBool("Move_top",false);
             player.SetBool("Move_front",false);
@@ -69,7 +70,7 @@ public class Hero : MonoBehaviour{
         if(Input.GetKeyDown(KeyCode.W)){
             player.SetBool("Move_top",true);
             player.SetBool("Move_left", false);
-            player.SetBool("Move_right", false);
+            player.SetBool("Move_rigth", false);
             player.SetBool("Atack", false);
             player.SetBool("Move_front",false);
             rb.velocity = transform.up * 100;
@@ -84,7 +85,7 @@ public class Hero : MonoBehaviour{
             print ("Atack");
             player.SetBool("Atack", true);
             player.SetBool("Move_left", false);
-            player.SetBool("Move_right", false);
+            player.SetBool("Move_rigth", false);
             player.SetBool("Move_top",false);
             atackMovement = true;
             atackTriggered.enabled = true;
@@ -121,29 +122,22 @@ public class Hero : MonoBehaviour{
     
 
     void OnTriggerEnter2D(Collider2D col){
-        if(col.gameObject.name.Equals("Fire")){
-            vida -= .5f;
-            print (vida);
-        }
-
-        if (col.gameObject.name.Equals("potion")){
-            vida += .5f;
-            print (vida);
-        }
-
+        
         if(col.gameObject.CompareTag("Pickups")){
             col.gameObject.SetActive(false);
-            if(col.gameObject.name.Equals("Coin")){
-                print ("A fucking coin you bastard");
-            }
-            if(col.gameObject.name.Equals("Papas")){
-                vida+=2;
-                print ("Some papitas");
-            }
-            if(col.gameObject.name.Equals("Boing")){
-                vida+=5;
-                print ("Un pinche Boing de mango perro asqueroso");
-            }
+
+        if(col.gameObject.name.Equals("Coin")){
+            print ("A fucking coin you bastard");
+        }
+        if(col.gameObject.name.Equals("Papas")){
+            vida+=2;
+            print ("Some papitas");
+        }
+        if(col.gameObject.name.Equals("Boing")){
+            vida+=5;
+            print ("Un pinche Boing de mango perro asqueroso");
+        }
+        
         }
 
         
@@ -154,6 +148,11 @@ public class Hero : MonoBehaviour{
          
 
     }
+
+     public void TakeDamage(float damage){
+        vida -= damage;
+     
+     }
 
    
     
