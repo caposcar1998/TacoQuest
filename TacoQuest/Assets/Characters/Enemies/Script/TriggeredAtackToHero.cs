@@ -6,7 +6,8 @@ using UnityEngine;
      {
     
     public float damageHero = .5f;
-   public float throath;
+    public float throath;
+    public float knockTime;
     void OnTriggerEnter2D(Collider2D object_punched){
 
         if  (object_punched.gameObject.CompareTag ("Player")){
@@ -17,19 +18,18 @@ using UnityEngine;
                 Vector2 difference = hero.transform.position - transform.position;
                 difference = difference.normalized * throath;
                 hero.AddForce(difference, ForceMode2D.Impulse);
-                hero.isKinematic = true;
-                // StartCoroutine(knockCo(hero));
+                StartCoroutine(KnockCo(hero));
             }
         }    
        
     }
 
-    //private IEnumerator KnockCo(Rigidbody2D hero){
-    //    if(hero != null){
-    //        yield return new WaitForSeconds(knockTime);
-    //        hero.velocity = Vector2.zero;
-    //        hero.isKinematic = true;
-    //    }       
-    //}
+    private IEnumerator KnockCo(Rigidbody2D hero){
+        if(hero != null){
+            yield return new WaitForSeconds(knockTime);
+            hero.velocity = Vector2.zero;
+            hero.isKinematic = true;
+        }       
+    }
     }
 

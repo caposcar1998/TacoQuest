@@ -18,19 +18,18 @@ public class TriggeredAtack : MonoBehaviour
                 Vector2 difference = enemy.transform.position - transform.position;
                 difference = difference.normalized * throath;
                 enemy.AddForce(difference, ForceMode2D.Impulse);
-                enemy.isKinematic = true;
-                //StartCoroutine(knockCo(enemy));
+                StartCoroutine(KnockCo(enemy));
             }
        }
        
     }
-     //IEnumerator KnockCo(Rigidbody2D enemy){
-     //       if(enemy != null){
-     //           yield return new WaitForSeconds(knockTime);
-     //           enemy.velocity = Vector2.zero;
-     //           enemy.isKinematic = true;
-     //       }       
-     //   }
+    private IEnumerator KnockCo(Rigidbody2D enemy){
+            if(enemy != null){
+                yield return new WaitForSeconds(knockTime);
+                enemy.velocity = Vector2.zero;
+                enemy.isKinematic = true;
+            }       
+        }
    
 }
 
