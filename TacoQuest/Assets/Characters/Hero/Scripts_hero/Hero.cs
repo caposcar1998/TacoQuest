@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 //MonoBehavior is needed in all classes
 public class Hero : MonoBehaviour{
@@ -21,13 +22,18 @@ public class Hero : MonoBehaviour{
     public GameObject object_shoot;
     private bool atackMovement = false;
 
+    private int tortilla_counter;
+
     private float atackTimer =0;
     private float atackCooled = 0.3f;
     public Collider2D atackTriggered;
     
+    public Text tortilladata;
+    public Text healthdata;
    
     void Start() {
-
+        
+        
         vida = 10f;
         rb.GetComponent<Rigidbody2D>();
         atackTriggered.enabled = false;
@@ -37,6 +43,7 @@ public class Hero : MonoBehaviour{
 
     void Update()
     {
+        
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
         gameObject.transform.Translate(new Vector3(h, v)*speed*Time.deltaTime);
@@ -127,6 +134,9 @@ public class Hero : MonoBehaviour{
             col.gameObject.SetActive(false);
 
         if(col.gameObject.name.Equals("Coin")){
+            tortilla_counter+=1;
+            tortilladata.text = tortilla_counter.ToString();
+
             print ("A fucking coin you bastard");
         }
         if(col.gameObject.name.Equals("Papas")){
