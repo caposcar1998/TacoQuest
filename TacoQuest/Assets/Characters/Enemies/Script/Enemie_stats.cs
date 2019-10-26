@@ -5,6 +5,8 @@ using UnityEngine;
 public class Enemie_stats : MonoBehaviour
 {
 
+    
+
     public float life = 10;
     
     public void TakeDamage(float damage){
@@ -12,6 +14,7 @@ public class Enemie_stats : MonoBehaviour
 
         if (life <=0){
             Die();
+            
         }
     }
 

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5799448239749702987}
   m_Layer: 0
   m_Name: Taco
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27,8 +27,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5327340792389375808}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.212, y: -0.144, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -1, w: -0.00000004371139}
+  m_LocalPosition: {x: -1499.7883, y: -4500.144, z: 0}
   m_LocalScale: {x: 1.706, y: 1.481, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -97,6 +97,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 20
   rb: {fileID: -623518164250293184}
+  throath: 4
+  knockTime: 0.5
 --- !u!50 &-623518164250293184
 Rigidbody2D:
   serializedVersion: 4
@@ -112,11 +114,11 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!61 &5799448239749702987
 BoxCollider2D:
